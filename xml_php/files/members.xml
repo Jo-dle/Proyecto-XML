@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>1</id>
+    <firstname>Noa</firstname>
+    <lastname>ubuntu</lastname>
+    <address>Linux City</address>
+  </user>
+  <user>
+    <id>2</id>
+    <firstname>gema</firstname>
+    <lastname>Almirez</lastname>
+    <address>La casa de mi abuela</address>
+  </user>
+  <user>
+    <id>3</id>
+    <firstname>Roberto</firstname>
+    <lastname>Gonzalo</lastname>
+    <address>La casa de mi prima</address>
+  </user>
+  <user>
+    <id>4</id>
+    <firstname>Juli&#xE1;n</firstname>
+    <lastname>Garc&#xED;a</lastname>
+    <address>Badalona</address>
+  </user>
+  <user>
+    <id>5</id>
+    <firstname>Cristina</firstname>
+    <lastname>Alem&#xE1;n</lastname>
+    <address>Gambia</address>
+  </user>
+  
+</users>
